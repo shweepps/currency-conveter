@@ -82,4 +82,17 @@ footer{
     #worth-first , #worth-second{
         width: 250px;
     }
+
+    footer{
+
+        background-color: #29d1d1;
+          color: #264653;
+          padding: 25px 50px;
+          margin-top: 200px;
+          display: flex;
+          justify-content: space-around;
+          align-items: center;
+          position: absolute;
+          bottom: 10px;
+      }
   }
